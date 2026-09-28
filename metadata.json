@@ -1,0 +1,6 @@
+{
+  "name": "Nexloop ERP Proposal - Flexible Packaging PLC",
+  "description": "Interactive presentation and business proposal for the custom ERP software engineering for Flexible Packaging Manufacturing PLC by Nexloop Software Solution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
